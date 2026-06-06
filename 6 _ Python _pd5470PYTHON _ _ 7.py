@@ -18,4 +18,6 @@ print(liczba_mutacji1)
 liczba_mutacji2 = 15
 print(liczba_mutacji1==liczba_mutacji2)
 print(liczba_mutacji1!=liczba_mutacji2)
+aa = ['Ala', 'Ser', 'Gly', 'Tyr']
+print("Glicyna na liście:", 'Gly' in aa)
 
