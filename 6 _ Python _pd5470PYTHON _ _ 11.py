@@ -20,3 +20,4 @@ print(Klebsiella_pneumoniae.opisz())
 print(Organizm.transkrybcja("AUTCGTCA"))
 
 
+
